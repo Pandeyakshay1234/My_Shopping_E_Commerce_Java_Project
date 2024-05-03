@@ -1,0 +1,136 @@
+body{
+    background-color: #141319;
+}
+.nav-item active:hover{
+     background:#4caf50; 
+     cursor:pointer;
+}
+
+.custom-bg{
+         background-color: #4db6ac!important;
+}
+
+.admin .card{
+    border: 1px solid #673ab7;
+    background-color: azure;
+}        
+
+.admin .card:hover{
+    background:#e2e2e2; 
+    cursor:pointer;
+    }
+    .list-group-item.active{
+    background-color:#9575cd!important;
+        
+    }
+     .selected-category {
+            background-color: #4db6ac!important; /* Change to the color you prefer for the selected category */
+        }
+        .card:hover{
+            background-color:#ffecb3;
+        }
+        .card-footer:hover{
+            background-color:#ffecb3;
+            
+        }
+        .card-sm{
+            length:300px;
+            background-color: #b2dfdb!important;
+            text-color:white;
+        }
+        .discount-label{
+            font-size: 15px!important;
+            font-style:italic!important;
+            text-decoration:line-through!important;
+            
+            
+        }
+        .ordsummery{
+             background-image: url(img/6505894.jpg);
+             background-repeat: no-repeat;
+             background-position: right top;
+             background-attachment: fixed;
+        }
+        .co{
+            color: greenyellow;
+        }
+        h2{
+            color: white; 
+        }
+        .bgg{
+            background-color: #141319;
+            
+            margin-top: 70px;
+            border-radius: 20px;
+            opacity:0.6;
+           }
+         
+        .bgg h1{
+            text-decoration: underline;
+            color: #b2dfdb;
+            
+        }
+        
+/*        toast*/
+/*#toast {
+min-width: 300px;
+position: fixed;
+bottom: 30px;
+left: 50%;
+margin-left: -120px;
+background: #333;
+padding: 15px;
+color: white;
+text-align: center;
+z-index: 1;
+font-size: 18px;
+visibility: hidden;
+box-shadow: 0px 0px 100px #000;*/
+
+
+
+
+/*#toast.display{
+
+visibility: visible;
+
+animation: fadeIn 0.5s, fadeOut 0.5s-2.5s;
+}
+
+
+  @keyframes fadeIn{
+
+from{
+
+bottom:0;
+
+opacity:0;
+
+}
+
+
+to{
+
+
+bottom: 30px;
+
+opacity: 1;
+
+}
+
+
+@keyframes fadeOut {
+
+from {
+
+bottom: 30px;
+
+opacity: 1;
+
+}
+to
+{
+    bottom:0;
+    opacity: 0;
+}
+}*/
