@@ -1,0 +1,13 @@
+com\learn\my_shopping\entities\Category.class
+com\learn\my_shopping\dao\ProductDao.class
+com\learn\my_shopping\entities\User.class
+com\learn\my_shopping\servlets\HttpSession.class
+com\learn\my_shopping\dao\UserDao.class
+com\mylearn\my_shopping\helper\FactoryProvider.class
+com\learn\my_shopping\entities\Product.class
+com\learn\my_shopping\servlets\LoginServlet.class
+com\learn\my_shopping\servlets\LogoutServlet.class
+com\learn\my_shopping\servlets\RegisterServlet.class
+com\mylearn\my_shopping\helper\Helper.class
+com\learn\my_shopping\dao\CategoryDao.class
+com\learn\my_shopping\servlets\ProductOperationServlet.class

@@ -53,7 +53,7 @@
                     <a class="nav-link" href="admin.jsp"><%=user1.getUserName()%></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#!" data-toggle="model" data-target="#profile-model"><%=user1.getUserName()%>Profile</a>
+                    <a class="nav-link" href="#!" data-toggle="modal" data-target="#profile"><i class="fa-solid fa-user" style="font-size: 15px;"></i></a>
                 </li>
                 
                 <li class="nav-item active">
