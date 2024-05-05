@@ -38,7 +38,7 @@ public class RegisterServlet extends HttpServlet {
                 
                 
                 // creating user object to store data
-               User user =   new User(userName, userEmail, userPassword, userPhone, "default.jpg", userAddress, "normal");
+               User user =   new User(userName, userEmail, userPassword, userPhone,"default.png", userAddress, "normal");
                 
                 Session hibernateSession =  FactoryProvider.getFactory().openSession();
                 
